@@ -1,7 +1,6 @@
 #! /usr/bin/env python
 # -*- coding: utf-8 -*-
 import sys
-import math
 
 def season(number):
 	if number > 0 and number < 13:
